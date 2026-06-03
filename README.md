@@ -42,6 +42,9 @@ Enter choice: 1
 Enter subject: DSA  
 Enter minutes studied: 90  
 
+
+this is for the badge...
+
 Session added.
 
 ## Future Improvements
